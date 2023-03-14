@@ -12,7 +12,7 @@ Anyway, Here it is my page: https://abarthdew.github.io/
         
         commit id:"LosAngeles"
         commit id:"Chicago"
-        commit id:"Houston"
+        commit type: HIGHLIGHT id:"Houston"
         branch MetroLine3
         commit id:"Phoenix"
         commit type: HIGHLIGHT id:"Denver"
@@ -24,7 +24,7 @@ Anyway, Here it is my page: https://abarthdew.github.io/
         commit id:"Washington"
         merge MetroLine2 tag:"MY JUNCTION"
         commit id:"Boston"
-        commit id:"Detroit"
+        commit id:"Detroit" type: REVERSE
         commit type:REVERSE id:"SanFrancisco"
 ```
 
