@@ -1,5 +1,5 @@
 # Hey👋, ABarthDew here
-My Name is an anagram - Guess what word it is🤣   
+My gitHub name is an anagram - Guess what word it is🤣   
 Anyway, Here it is my page: https://abarthdew.github.io/
 
 ### ✨Tech Stack
