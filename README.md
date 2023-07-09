@@ -12,8 +12,7 @@ timeline
     2006 : Twitter
     2007 : Twitter
 ```
-
-
+![깃허브아이디's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
 
 
 > DO: Java, SpringMVC, Boot, Maven, Gradle, MyBatis, JPA, QueryDSL, TDD, Swagger, Oracle, MySQL, MariaDB, PostgreSQL, MongoDB, CubridDB, TiberoDB, javascript, ES6, vue.js, TypeScript, node.js, Express.js, JQuery, Thymeleaf, Bitbucket, SVN, gitHub, gitLab, Docker, Kubernetes, Nexus
