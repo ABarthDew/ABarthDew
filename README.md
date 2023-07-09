@@ -12,46 +12,60 @@ timeline
     2006 : Twitter
     2007 : Twitter
 ```
-![AbarthDew's GitHub stats](https://github-readme-stats.vercel.app/api?username=abarthdew&show_icons=true)
+### 💻Tech Stack
 
+<div align="left">
+  <!-- back -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  height="40" width="52"/>
 
-> DO: Java, SpringMVC, Boot, Maven, Gradle, MyBatis, JPA, QueryDSL, TDD, Swagger, Oracle, MySQL, MariaDB, PostgreSQL, MongoDB, CubridDB, TiberoDB, javascript, ES6, vue.js, TypeScript, node.js, Express.js, JQuery, Thymeleaf, Bitbucket, SVN, gitHub, gitLab, Docker, Kubernetes, Nexus
-{: .prompt-tip }
-   
-> TODO: DO, Docker, Kubernetes, GraphQL, Nginx, AWS, etc
-{: .prompt-info }
+  <!-- front -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52"/>
+  
+  <!-- db -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  
+  <!-- deploy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52"/>
+  
+  <!-- tdd -->
+  <img src="https://cdn.svgporn.com/logos/swagger.svg" height="40" width="52"/>
+ 
+  <!-- git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"  height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"  height="40" width="52"/>
 
-```mermaid
-flowchart TD
-    A((Java))
-    A-->A-1[SpringMVC, Boot, JavaFX]
-    A-->A-2[Maven, Gradle]
-    A-->A-3[MyBatis, JPA, QueryDSL]
-    G{TDD}-->K[Swagger]
-```  
-   
-```mermaid
-flowchart RL
-    B1[(Oracle)]---B2[(MySQL)]---B3[(MariaDB)]---B4[(PostgreSQL)]---B5[(MongoDB)]---b-1[CubridDB, TiberoDB]
-```
-   
-```mermaid
-flowchart TD
-    C[/javascript, ES6\]
-    C-->c-1[vue.js, TypeScript]
-    C-->c-2[node.js, Express.js]
-    C-->c-3[JQuery, Thymeleaf]
-    C-->c-3[GraphQL]
-    F[Bitbucket, SVN]---D[/gitHub, gitLab\]
-    D-->E[\gitPages/]
-```
-   
-```mermaid
-flowchart BT
-    H[[Deploymentm]]
-    H-->h1([Docker])
-    H-->h2([Nginx])
-    H-->h3([Kubernetes])
-    H-->h4([AWS])
-    H-->h5([Nexus])
-```
+  <!-- etc -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52"/>
+</div>
+
+### 📚Learning
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"  height="40" width="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  height="40" width="52"/>
+</div>
+
+## References
+- [icon](https://devicon.dev/)
