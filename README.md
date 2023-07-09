@@ -1,4 +1,4 @@
-# Hey👋, ABarthDew here
+# Hey👋, It's ABarthDew
 My gitHub name is an anagram - Guess what word it is🤣   
 Anyway, Here it is my page: https://abarthdew.github.io/
 
