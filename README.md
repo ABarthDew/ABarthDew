@@ -4,33 +4,12 @@ Anyway, Here it is my page: https://abarthdew.github.io/
 
 ### ✨Tech Stack
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'FRONT'}} }%%
-      gitGraph
-        commit id:"jQuery"
-        commit id:"Javascript"
-        branch BACK
-        
-        commit id:"JAVA"
-        commit id:"SpringMVC"
-        commit id:"SpringBoot"
-        commit type: HIGHLIGHT id:"JavaFX"
-        commit id:"Node.js"
-        commit id:"Express.js"
-        commit id:"GraphQL"
-        branch MetroLine3
-        commit id:"Oracle"
-        commit id:"Tibero"
-        commit id:"Maria"
-        commit id:"MySQL"
-        commit id:"Mongo"
-        commit type: HIGHLIGHT id:"PostgreSQL"
-        commit id:"Typescript"
-        checkout FRONT
-        commit id:"VUE.js"
-        merge DBMS
-        commit id:"ES6"
-        merge BACK tag:"MY JUNCTION"
-        commit id:"React" type: REVERSE
+timeline
+    title History of Social Media Platform
+    2002 : LinkedIn
+    2004 : Facebook : Google
+    2005 : Youtube
+    2006 : Twitter
 ```
 
 
