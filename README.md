@@ -4,28 +4,33 @@ Anyway, Here it is my page: https://abarthdew.github.io/
 
 ### ✨Tech Stack
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'MetroLine1'}} }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'FRONT'}} }%%
       gitGraph
-        commit id:"NewYork"
-        commit id:"Dallas"
-        branch MetroLine2
+        commit id:"jQuery"
+        commit id:"Javascript"
+        branch BACK
         
-        commit id:"LosAngeles"
-        commit id:"Chicago"
-        commit type: HIGHLIGHT id:"Houston"
+        commit id:"JAVA"
+        commit id:"SpringMVC"
+        commit id:"SpringBoot"
+        commit type: HIGHLIGHT id:"JavaFX"
+        commit id:"Node.js"
+        commit id:"Express.js"
+        commit id:"GraphQL"
         branch MetroLine3
-        commit id:"Phoenix"
-        commit type: HIGHLIGHT id:"Denver"
-        commit id:"Boston"
-        checkout MetroLine1
-        commit id:"Atlanta"
-        merge MetroLine3
-        commit id:"Miami"
-        commit id:"Washington"
-        merge MetroLine2 tag:"MY JUNCTION"
-        commit id:"Boston"
-        commit id:"Detroit" type: REVERSE
-        commit type:REVERSE id:"SanFrancisco"
+        commit id:"Oracle"
+        commit id:"Tibero"
+        commit id:"Maria"
+        commit id:"MySQL"
+        commit id:"Mongo"
+        commit type: HIGHLIGHT id:"PostgreSQL"
+        commit id:"Typescript"
+        checkout FRONT
+        commit id:"VUE.js"
+        merge DBMS
+        commit id:"ES6"
+        merge BACK tag:"MY JUNCTION"
+        commit id:"React" type: REVERSE
 ```
 
 
