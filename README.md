@@ -13,8 +13,8 @@ timeline
     2022 : JAVA : SpringBoot : Javascrip : jQuery : Tibero : Cubrid : Thymeleaf : 전자정부프레임워크 : Bitbuckit : SVN : Kubernetes
     2023 : JAVA : SpringBoot : Vue2 : Javascript : Gradle : Tibero : gitLab
 ```
-### 💻Tech Stack
 
+### 💻Tech Stack
 <div align="left">
   <!-- back -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52"/>
@@ -57,7 +57,7 @@ timeline
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52"/>
 </div>
 
-### 📚Learning
+### 📚Learning...
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52"/>
@@ -68,8 +68,7 @@ timeline
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52"/>
 </div>
 
-### 📊GitHub Stats :
-
+### 📊GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=abarthdew&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abarthdew&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abarthdew&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
