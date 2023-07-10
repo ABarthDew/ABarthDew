@@ -76,3 +76,4 @@ timeline
 
 ## References
 - [icon](https://devicon.dev/)
+- [mermaid](https://mermaid.js.org/syntax/timeline.html)
