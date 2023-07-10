@@ -6,8 +6,7 @@ Anyway, Here it is my page: https://abarthdew.github.io/
 ```mermaid
 timeline
     title History of Tech Stack
-    ~2019 : PLSQL : SQL : EXCEL
-    2019 : JAVA : SpringMVC : MAVEN : Servlet : JSP : Javascript : jQuery : ORACLE : MyBatis : gitHub : Bootstrap
+    ~2019 : JAVA : SpringMVC : MAVEN : Servlet : JSP : Javascript : jQuery : ORACLE : MyBatis : gitHub : Bootstrap
     2020 : MSA : REST api : JAVA : SpringBoot : Gradle : JPA : Vue2 : ES6 : ElementUI : ORACLE
     2021 : Vue3 : Vuetify : MongoDB : Node.js : Express.js : TypeScript : QueryDSL : MySQL : PostgreSQL : Swagger : Docker
     2022 : JAVA : SpringBoot : Javascrip : jQuery : Tibero : Cubrid : Thymeleaf : 전자정부프레임워크 : Bitbuckit : SVN : Kubernetes
