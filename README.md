@@ -2,15 +2,16 @@
 My gitHub name is an anagram - Guess what word it is🤣   
 Anyway, Here it is my page: https://abarthdew.github.io/
 
-### ✨Tech Stack
+### ✨History
 ```mermaid
 timeline
-    title History of Social Media Platform
-    2002 : LinkedIn
-    2004 : Facebook : Google
-    2005 : Youtube
-    2006 : Twitter
-    2007 : Twitter
+    title History of Tech Stack
+    ~2019 : PLSQL : SQL : EXCEL
+    2019 : JAVA : SpringMVC : MAVEN : Servlet : JSP : Javascript : jQuery : ORACLE : MyBatis : gitHub : Bootstrap : css : HTML
+    2020 : MSA : REST api : JAVA : SpringBoot : Gradle : JPA : Vue2 : ES6 : ElementUI : ORACLE
+    2021 : Vue3 : Vuetify : MongoDB : Node.js : Express.js : TypeScript : QueryDSL : MySQL : PostgreSQL : Swagger : Docker
+    2022 : JAVA : SpringBoot : Javascrip : jQuery : Tibero : Cubrid : Thymeleaf : 전자정부프레임워크 : Bitbuckit : SVN : Kubernetes
+    2023 : JAVA : SpringBoot : Vue2 : Javascript : Gradle : Tibero : gitLab
 ```
 ### 💻Tech Stack
 
@@ -66,6 +67,12 @@ timeline
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52"/>
 </div>
+
+### 📊GitHub Stats :
+
+![](https://github-readme-stats.vercel.app/api?username=abarthdew&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abarthdew&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abarthdew&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## References
 - [icon](https://devicon.dev/)
