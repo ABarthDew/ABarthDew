@@ -4,6 +4,7 @@ Anyway, Here it is my page: https://abarthdew.github.io/
 
 ### ✨History
 ```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
 timeline
     title History of Tech Stack
     ~2019 : JAVA : SpringMVC : MAVEN : Servlet : JSP : Javascript : jQuery : ORACLE : MyBatis : gitHub : Bootstrap
