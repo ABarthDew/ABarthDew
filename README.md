@@ -2,7 +2,7 @@
 My gitHub name is an anagram - Guess what word it is🤣   
 Anyway, Here it is my page: https://abarthdew.github.io/
 
-### ✨History [1]((https://mermaid.js.org/syntax/timeline.html))
+### ✨History[[1]](https://mermaid.js.org/syntax/timeline.html)
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
 timeline
@@ -14,7 +14,7 @@ timeline
     2023 : JAVA : SpringBoot : Vue2 : Javascript : Gradle : Tibero : gitLab
 ```
 
-### 💻Tech Stack [1](https://devicon.dev/)
+### 💻Tech Stack[[1]](https://devicon.dev/)
 <div align="left">
   <!-- back -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52"/>
