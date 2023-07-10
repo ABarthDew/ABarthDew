@@ -14,7 +14,7 @@ timeline
     2023 : JAVA : SpringBoot : Vue2 : Javascript : Gradle : Tibero : gitLab
 ```
 
-### 💻Tech Stack[[1]](https://devicon.dev/)
+### 💻Tech Stack <small>[[1]](https://devicon.dev/)</small>
 <div align="left">
   <!-- back -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52"/>
